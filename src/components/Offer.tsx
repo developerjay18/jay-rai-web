@@ -51,7 +51,7 @@ function Offer() {
         </div>
       </div>
 
-      <div className="bg-img absolute top-0 right-0">
+      <div className="bg-img hidden lg:block absolute top-0 right-0">
         <Image
           src={
             "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719153530/jayrai-june/awl1xiralfmbanegeka7.svg"

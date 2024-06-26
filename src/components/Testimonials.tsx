@@ -42,14 +42,16 @@ function Testimonials() {
   return (
     <div className="bg-[#f4f4f4] px-5 py-10 lg:p-16">
       <div className="up">
-        <h2 className="capitalize text-4xl text-center lg:text-left lg:text-5xl font-bold">customer experiences</h2>
+        <h2 className="capitalize text-4xl text-center lg:text-left lg:text-5xl font-bold">
+          customer experiences
+        </h2>
       </div>
 
       <div className="down mt-10">
         <Slider {...settings}>
           {testimonials.testimonials.map((item, index) => (
             <div
-              className="test-card p-4 bg-white w-[30%] border-[10px] border-[#f4f4f4] flex flex-col"
+              className="test-card p-4 bg-white w-[30%] border-[6px] lg:border-[10px] border-[#f4f4f4] flex flex-col"
               key={`testimonial ${index + 1}`}
             >
               <div className="upper flex gap-x-4">
