@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import navLinks from "@/data/navlinks";
+import navLinks from "@/data/navLinks_data.json";
 import Link from "next/link";
 
 function Navbar() {  
@@ -24,7 +24,7 @@ function Navbar() {
 
       <div className="links">
         <ul className="flex gap-x-8">
-          {navLinks.map((link, index) => (
+          {navLinks.navLinks.map((link, index) => (
             <Link href={link.slug} key={index}>
               <li className="hover:scale-110 text-lg text-[#]">{link.title}</li>
             </Link>
