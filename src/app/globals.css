@@ -20,6 +20,16 @@
   background: rgba(0, 0, 0, 0.5);
 }
 
+@media (max-width: 768px) {
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  /* For Firefox */
+  html {
+    scrollbar-width: none;
+  }
+}
+
 /* custom CSS for backgrounds */
 .home-hero-bg {
   background-image: url("https://res.cloudinary.com/remind-cents-cloud/image/upload/v1718537692/jayrai-june/r8ht33u8pgv36k5ob7to.jpg");
@@ -34,6 +44,10 @@
 
 .offer-list li {
   list-style-type: disc;
+}
+
+.glassy-div {
+  background: transparent;
 }
 
 /* CSS for text selections  */

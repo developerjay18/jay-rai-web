@@ -57,7 +57,7 @@ function Projects() {
         <Slider {...settings} className="">
           {projects.projects.map((item, index) => (
             <div
-              className="project bg-white mx-4 border-[16px] border-[#f4f4f4]"
+              className="project bg-white mx-4 border-[6px] lg:border-[16px] border-[#f4f4f4]"
               key={`project ${index + 1}`}
             >
               <div className="image">
@@ -94,7 +94,7 @@ function Projects() {
 
                 <Link
                   href={item.link}
-                  className="text-lg bg-themeTurquoise w-[20%] text-white hover:bg-darkThemeTurquoise"
+                  className="text-lg bg-themeTurquoise w-[30%] lg:w-[20%] text-white hover:bg-darkThemeTurquoise"
                 >
                   <button className="flex items-center gap-x-3 px-3 py-1">
                     Visit <FaLongArrowAltRight />
