@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import Image from "next/image";
 import Link from "next/link";
 import Hero from "@/components/Hero";
 import Choose from "@/components/Choose";
@@ -12,12 +11,13 @@ import Certificate from "@/components/Certificate";
 import Testimonials from "@/components/Testimonials";
 import Offer from "@/components/Offer";
 import Contact from "@/components/Contact";
-import Footer from "@/components/Footer";
 import CertifiedFrom from "@/components/CertifiedFrom";
+import { IoLogoWhatsapp } from "react-icons/io";
+import whatsappLink from "@/data/socialLinks";
 
 export default function Home() {
   return (
-    <main className="">
+    <main className="max-w-screen overflow-hidden realtive">
       <Hero />
       <Choose />
       <WorkedWith />
@@ -28,6 +28,11 @@ export default function Home() {
       <Testimonials />
       <Offer />
       <Contact />
+      <div className="sticker fixed bottom-1 right-1 bg-[#f4f4f4] rounded-full p-[0.35rem] text-5xl z-[100] text-[#00d25c]">
+        <Link href={whatsappLink}>
+        <IoLogoWhatsapp />
+        </Link>
+      </div>
     </main>
   );
 }

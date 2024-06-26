@@ -20,7 +20,7 @@
       "name": "Invoice Mate",
       "industryType": "Transport business",
       "link": "https://invoice-mate-three.vercel.app/login",
-      "techStack": ["Next.js", "Node.js", "MongoDB", "Vercel"],
+      "techStack": ["Next.js", "Node.js", "MongoDB"],
       "description": "Developed a comprehensive web application for a transport business in Ahmedabad, digitizing their invoicing process and significantly saving time and resources.",
       "keywords": [
         "transport",
