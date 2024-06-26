@@ -1,0 +1,161 @@
+{
+  "projects": [
+    {
+      "name": "Naagnechi Furniture",
+      "industryType": "Furniture business",
+      "link": "https://naagnechifurniture.online/",
+      "techStack": ["React", "Vercel"],
+      "description": "Created a modern, responsive website for a furniture business in Ahmedabad, Gujarat, showcasing their wide range of top-quality furniture services.",
+      "keywords": [
+        "furniture",
+        "wood",
+        "Ahmedabad",
+        "Gujarat",
+        "home decor",
+        "interior design"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717435578/jayraiweb/home/nk8qwnyv4kqdw530bwdx.svg"
+    },
+    {
+      "name": "Invoice Mate",
+      "industryType": "Transport business",
+      "link": "https://invoice-mate-three.vercel.app/login",
+      "techStack": ["Next.js", "Node.js", "MongoDB", "Vercel"],
+      "description": "Developed a comprehensive web application for a transport business in Ahmedabad, digitizing their invoicing process and significantly saving time and resources.",
+      "keywords": [
+        "transport",
+        "logistics",
+        "invoicing",
+        "Ahmedabad",
+        "digital transformation",
+        "efficiency"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717435572/jayraiweb/home/b8i3pemebfzzmrdrm5no.svg"
+    },
+    {
+      "name": "Yash Sharma",
+      "industryType": "Freelance digital marketer",
+      "link": "http://yashsharmadigital.com/",
+      "techStack": ["React", "Vercel"],
+      "description": "Created a personal portfolio website for a freelance digital marketer in Ahmedabad, enabling easy sharing of work and client information.",
+      "keywords": [
+        "freelancer",
+        "digital marketing",
+        "portfolio",
+        "Ahmedabad",
+        "SEO",
+        "branding"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717393061/jayraiweb/home/s01svizbtldoybpwtn9h.svg"
+    },
+    {
+      "name": "Astro by Yogesh",
+      "industryType": "Astrologer",
+      "link": "https://www.astrobyyogesh.com/",
+      "techStack": ["React", "Vercel"],
+      "description": "Developed an engaging website for an experienced astrologer, facilitating service showcases and online sales of Astro products.",
+      "keywords": [
+        "astrology",
+        "spiritual services",
+        "online store",
+        "Ahmedabad",
+        "horoscope",
+        "consulting"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717391496/jayraiweb/home/yboykeydso4bo48p56tg.svg"
+    },
+    {
+      "name": "Decent Settlement",
+      "industryType": "Loan settlement",
+      "link": "http://decentsettlement.com/",
+      "techStack": ["React", "Vercel"],
+      "description": "Built an informative website for a loan settlement company, featuring service showcases and an online appointment booking system for clients.",
+      "keywords": [
+        "loan settlement",
+        "financial services",
+        "debt management",
+        "appointment booking",
+        "consulting"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717393930/jayraiweb/home/wzcz423kiissx10f36bp.svg"
+    },
+    {
+      "name": "Best Food Services",
+      "industryType": "Food catering business",
+      "link": "https://www.bestfoodservice.in/",
+      "techStack": ["React", "Vercel"],
+      "description": "Created a functional website for a catering business, allowing online menu listings, order placements, and promotions to attract a larger audience.",
+      "keywords": [
+        "catering",
+        "food services",
+        "online menu",
+        "event catering",
+        "promotions",
+        "food orders"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717393311/jayraiweb/home/udbvhak3m3eyfdnz7a5a.svg"
+    },
+    {
+      "name": "Elito Batteries",
+      "industryType": "Battery company giant",
+      "link": "https://www.elitobatteries.com/",
+      "techStack": ["Next.js", "Vercel", "Cloudinary"],
+      "description": "Developed a comprehensive website for a battery company, enabling online listing of their products with detailed specifications, reaching a global audience.",
+      "keywords": [
+        "batteries",
+        "energy solutions",
+        "global distribution",
+        "product specifications",
+        "technology"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717595280/jayraiweb/home/nxxwytvkhnfp26x2hrau.svg"
+    },
+    {
+      "name": "Tequity Eng.",
+      "industryType": "Machine manufacturing plant",
+      "link": "https://tequity-engineering.vercel.app/",
+      "techStack": ["React", "Vercel", "Cloudinary"],
+      "description": "Built an informative website for a machine manufacturing plant, showcasing their products and services with detailed specifications to aid customer understanding.",
+      "keywords": [
+        "manufacturing",
+        "machinery",
+        "industrial equipment",
+        "product specifications",
+        "engineering"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717392215/jayraiweb/home/fy0s2ezaafjcwsuq1zbx.svg"
+    },
+    {
+      "name": "Clean Genie Services",
+      "industryType": "Cleaning service",
+      "link": "http://cleangenieservices.com.au/",
+      "techStack": ["React", "Vercel", "Cloudinary"],
+      "description": "Created a user-friendly website for a cleaning service business in Adelaide, allowing service listings and online ad placements to reach a wider audience.",
+      "keywords": [
+        "cleaning services",
+        "Adelaide",
+        "home cleaning",
+        "commercial cleaning",
+        "service booking",
+        "Australia"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717435579/jayraiweb/home/ygycz1fxoxbwrmez5xzt.svg"
+    },
+    {
+      "name": "Xevosoft",
+      "industryType": "Full-fledged agency",
+      "link": "http://xevosoft.com/",
+      "techStack": ["React", "Vercel"],
+      "description": "Built a professional website for a full-fledged digital marketing agency, detailing their extensive range of services aimed at boosting clients' online presence.",
+      "keywords": [
+        "digital marketing",
+        "agency",
+        "online services",
+        "SEO",
+        "branding",
+        "web development"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717392434/jayraiweb/home/birzsf9hr12wreumwebf.svg"
+    }
+  ]
+}

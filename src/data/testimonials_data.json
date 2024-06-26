@@ -1,0 +1,81 @@
+{
+  "testimonials": [
+    {
+      "name": "Naagnechi Furniture",
+      "industryType": "Furniture business",
+      "profession": "Business Owner",
+      "testimonial": "Jay Rai is the best web developer in Ahmedabad. He created a stunning, responsive website for our furniture business. Our online presence has significantly improved, attracting more customers. Highly recommended!",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719338034/jayrai-june/n4gnbxeslugbxu329b3a.jpg"
+    },
+    {
+      "name": "Invoice Mate",
+      "industryType": "Transport business",
+      "profession": "Operations Manager",
+      "testimonial": "Thanks to Jay Rai, our transport business in Ahmedabad now has an efficient web application for invoicing. JayRai Web has saved us countless hours. Jay Rai is undoubtedly the best web developer in Ahmedabad.",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719339058/jayrai-june/lmkgu0oukexzodq1b3il.jpg"
+    },
+    {
+      "name": "Xevosoft",
+      "industryType": "Full-fledged agency",
+      "profession": "Agency Director",
+      "testimonial": "Jay Rai's expertise as a web developer is unmatched. He developed a professional website for our digital marketing agency, showcasing all our services effectively. If you need a top-notch web developer in Ahmedabad, contact JayRai Web.",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719337325/jayrai-june/vemwusw6i54cr9rjgmkr.jpg"
+    },
+    {
+      "name": "Yash Sharma Digital",
+      "industryType": "Freelance digital marketer",
+      "profession": "Freelancer",
+      "testimonial": "Jay Rai created a fantastic portfolio website for my digital marketing services in Ahmedabad. Now I can easily share my work with clients. JayRai Web is the best choice for a web developer in Ahmedabad.",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719328231/jayrai-june/uww0sectnt9ng0x3dlbe.svg"
+    },
+    {
+      "name": "Astro by Yogesh",
+      "industryType": "Astrologer",
+      "profession": "Astrologer",
+      "testimonial": "Jay Rai developed an engaging website for my astrology services. It has boosted my online presence and sales. For anyone looking for a reliable web developer in Ahmedabad, JayRai Web is the answer.",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719336856/jayrai-june/zesulp0cvbb57wandejg.png"
+    },
+    {
+      "name": "Decent Settlement",
+      "industryType": "Loan settlement company",
+      "profession": "Company Director",
+      "testimonial": "We hired Jay Rai to create our loan settlement website. His work has greatly improved our customer engagement and appointment bookings. Jay Rai is the best web developer in Ahmedabad!",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719338402/jayrai-june/x3dgujil901vzasuhagh.png"
+    },
+    {
+      "name": "Best Food Services",
+      "industryType": "Food catering business",
+      "profession": "Catering Service Owner",
+      "testimonial": "Jay Rai designed an excellent website for our catering business. It allows us to list our menu and take orders online. JayRai Web is undoubtedly the best web developer in Ahmedabad.",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719338667/jayrai-june/l5jgnjw6pkapwgxlhxzo.png"
+    },
+    {
+      "name": "Elito Batteries",
+      "industryType": "Battery company giant",
+      "profession": "CEO",
+      "testimonial": "Jay Rai developed a comprehensive website for our battery company, reaching customers globally. If you need a skilled web developer in Ahmedabad, JayRai Web is the way to go.",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719338547/jayrai-june/iaasjqnvqiexlzy5jevc.png"
+    },
+    {
+      "name": "Tequity Engineerings",
+      "industryType": "Machine manufacturing plant",
+      "profession": "Plant Manager",
+      "testimonial": "Jay Rai's web development skills have transformed our online presence. Our new website effectively showcases our machinery and services. Jay Rai is the best web developer in Ahmedabad.",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719337142/jayrai-june/cv6ahvlzsws8bvwmx1zh.png"
+    },
+    {
+      "name": "Clean Genie Services",
+      "industryType": "Cleaning service business",
+      "profession": "Business Owner",
+      "testimonial": "Jay Rai designed a user-friendly website for our cleaning service in Adelaide. It has significantly increased our customer base. For top-notch web development, choose JayRai Web in Ahmedabad.",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719339091/jayrai-june/ymrx2q4fy472ffaf7evu.png"
+    },
+    {
+      "name": "Aayush Bajpai",
+      "industryType": "Freelancer",
+      "profession": "digital Marketer",
+      "testimonial": "Jay Rai did an outstanding job on my portfolio website. His work has made it so much easier for me to showcase my skills and projects to potential clients. If you're in Ahmedabad and need a web developer, JayRai Web is the best choice!",
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1719337816/jayrai-june/zoe6gang1jzrpiufftot.jpg"
+    }
+  ]
+}

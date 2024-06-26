@@ -1,3 +1,53 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* CSS for scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #737373;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/* custom CSS for backgrounds */
+.home-hero-bg {
+  background-image: url("https://res.cloudinary.com/remind-cents-cloud/image/upload/v1718537692/jayrai-june/r8ht33u8pgv36k5ob7to.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+/* elements CSS  */
+.choose-list li {
+  list-style-type: disc;
+}
+
+.offer-list li {
+  list-style-type: disc;
+}
+
+/* CSS for text selections  */
+::selection {
+  background-color: #00b9bc;
+  color: #ffffff;
+}
+
+::-webkit-selection {
+  background-color: #00b9bc;
+  color: #ffffff;
+}
+
+::-moz-selection {
+  background-color: #00b9bc;
+  color: #ffffff;
+}

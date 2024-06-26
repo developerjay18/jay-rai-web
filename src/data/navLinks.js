@@ -1,0 +1,25 @@
+const navLinks = [
+  {
+    title: "Home",
+    slug: "/",
+  },
+  {
+    title: "About",
+    slug: "#about",
+  },
+  {
+    title: "Creations",
+    slug: "#creations",
+  },
+  {
+    title: "Offer",
+    slug: "#offer",
+  },
+  {
+    title: "Contact",
+    slug: "#contact",
+  },
+];
+
+
+export default navLinks;
