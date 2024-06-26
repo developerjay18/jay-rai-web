@@ -2,10 +2,10 @@
 
 import React from "react";
 import Image from "next/image";
-import navLinks from "@/data/navlinks.js";
+import navLinks from "@/data/navlinks";
 import Link from "next/link";
 
-function Navbar() {
+function Navbar() {  
   return (
     <nav className="px-5 hidden lg:flex z-50 absolute w-full top-0 lg:px-16 py-4 justify-between items-center text-white">
       <div className="logo">
