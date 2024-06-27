@@ -8,7 +8,7 @@ import whatsappLink from "@/data/socialLinks";
 function Hero() {
   return (
     <div className="flex flex-col lg:flex-row lg:max-h-screen overflow-hidden relative pt-16 lg:pt-24 pb-10 home-hero-bg text-white">
-      <div className="left lg:w-1/2 pl-5 pr-5 lg:pl-16 pb-10 lg:pb-20 flex flex-col justify-center gap-y-4">
+      <div className="left lg:w-1/2 pl-5 pr-5 lg:pl-16 pb-10 lg:pb-28 flex flex-col justify-center gap-y-4">
         <h1 className="capitalize text-5xl lg:text-6xl text-center lg:text-left font-bold lg:w-[80%]">
           build your <br /> online presence via website
         </h1>
