@@ -28,7 +28,7 @@ export default function Home() {
       <Testimonials />
       <Offer />
       <Contact />
-      <div className="sticker fixed bottom-1 right-1 text-white rounded-full p-4 text-3xl z-[100] bg-[#00d25c]">
+      <div className="sticker fixed bottom-1 right-1 text-white rounded-full p-4 text-3xl z-[100] bg-[#00d25c] hover:scale-[1.05]">
         <Link href={whatsappLink}>
           <IoLogoWhatsapp />
         </Link>
