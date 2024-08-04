@@ -12,7 +12,7 @@ import Testimonials from "@/components/Testimonials";
 import Offer from "@/components/Offer";
 import Contact from "@/components/Contact";
 import CertifiedFrom from "@/components/CertifiedFrom";
-import { IoLogoWhatsapp } from "react-icons/io";
+import { IoLogoWhatsapp } from "react-icons/io5";
 import whatsappLink from "@/data/socialLinks";
 
 export default function Home() {
@@ -28,7 +28,7 @@ export default function Home() {
       <Testimonials />
       <Offer />
       <Contact />
-      <div className="sticker fixed bottom-1 right-1 text-white rounded-full p-4 text-3xl z-[100] bg-[#00d25c] hover:scale-[1.05]">
+      <div className="sticker fixed bottom-3 right-3 text-white rounded-full p-3 text-3xl z-[100] bg-[#00d25c] hover:scale-[1.05]">
         <Link href={whatsappLink}>
           <IoLogoWhatsapp />
         </Link>

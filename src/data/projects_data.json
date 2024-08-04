@@ -126,6 +126,22 @@
       "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717392215/jayraiweb/home/fy0s2ezaafjcwsuq1zbx.svg"
     },
     {
+      "name": "Valuable Multimedia",
+      "industryType": "Full-fledged agency",
+      "link": "http://valuablemultimedia.com/",
+      "techStack": ["Next.js", "Vercel", "Cloudinary"],
+      "description": "Built a professional website for a full-fledged digital marketing agency, detailing their extensive range of services aimed at boosting clients' online presence.",
+      "keywords": [
+        "digital marketing",
+        "agency",
+        "online services",
+        "SEO",
+        "branding",
+        "web development"
+      ],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1722789438/jayraiweb/home/mz3ib0qfzcgse96qmwv0.svg"
+    },
+    {
       "name": "Clean Genie Services",
       "industryType": "Cleaning service",
       "link": "http://cleangenieservices.com.au/",
