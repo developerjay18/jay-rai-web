@@ -3,15 +3,12 @@
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
-import { usePathname } from "next/navigation";
 
 function Footer() {
   const currentYear = new Date().getFullYear();
-  const pathName = usePathname();
 
-  const isBusinessURL = pathName.startsWith("/quick-page-creator");
   return (
-    <div className={`${isBusinessURL ? "hidden" : "block"}`}>
+    <div className="">
       <div className="bg-[#26292f] text-white lg:h-[50vh] max-w-screen overflow-hidden">
         <div className="flex">
           <div className="left w-[45%] flex justify-center items-center h-full">

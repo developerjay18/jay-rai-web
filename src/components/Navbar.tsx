@@ -5,7 +5,6 @@ import Image from "next/image";
 import navLinks from "@/data/navLinks_data.json";
 import Link from "next/link";
 import { Menu, X } from "lucide-react";
-import { usePathname } from "next/navigation";
 
 function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
@@ -14,12 +13,8 @@ function Navbar() {
     setIsMenuOpen(!isMenuOpen);
   };
 
-  const pathName = usePathname();
-
-  const isBusinessURL = pathName.startsWith("/quick-page-creator");
-
   return (
-    <div className={`${isBusinessURL ? "hidden" : "block"}`}>
+    <div className="">
       <nav className="px-5 hidden lg:flex z-50 absolute w-full top-0 lg:px-16 py-4 justify-between items-center text-white">
         <div className="logo">
           <Link href={"/"}>
