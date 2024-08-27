@@ -5,6 +5,8 @@ import Link from "next/link";
 import React from "react";
 
 function Footer() {
+  const currentYear = new Date().getFullYear();
+
   return (
     <div className="">
       <div className="bg-[#26292f] text-white lg:h-[50vh] max-w-screen overflow-hidden">
@@ -42,7 +44,8 @@ function Footer() {
       </div>
       <div className="bg-[#26292f] text-white flex flex-col lg:flex-row lg:justify-between justify-center items-center capitalize py-3 lg:py-2 px-5 lg:px-16">
         <div className="">
-          &copy; 2023-2024 | <span className="uppercase">jay rai web </span>{" "}
+          &copy; 2023-{currentYear} |{" "}
+          <span className="uppercase">jay rai web </span>{" "}
           <span className="hidden lg:inline-block">- all rights reserved</span>
         </div>
         <div className="">
