@@ -172,6 +172,15 @@
         "web development"
       ],
       "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1717392434/jayraiweb/home/birzsf9hr12wreumwebf.svg"
+    },
+    {
+      "name": "Anekant Holidays",
+      "industryType": "Ticket Booking Agent",
+      "link": "https://anekant-holidays.vercel.app/",
+      "techStack": ["NextJS", "Vercel", "Cloudinary"],
+      "description": "Developed a ticket generator for Anekant Holidays, automating tasks and reducing manual workload through a predefined form, significantly improving efficiency.",
+      "keywords": ["ticket booking", "ticket generator"],
+      "imgUrl": "https://res.cloudinary.com/remind-cents-cloud/image/upload/v1728553589/jayrai-june/ise6m0v4fqgizq5xctaz.png"
     }
   ]
 }
